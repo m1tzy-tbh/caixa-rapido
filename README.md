@@ -25,9 +25,9 @@ R: Uma calcula o desconto do produto e a outra exibe os preços dos itens após 
 ## Checklist
 
 [x] As variáveis globais foram declaradas corretamente, ou há variáveis "sobrando"?
-[ ] A função de cálculo possui os parâmetros definidos corretamente na sua assinatura?
-[ ] As operações matemáticas utilizam os parâmetros internos da função, e não as variáveis globais de fora?
-[ ] O comando Retorne foi utilizado adequadamente?
+[x] A função de cálculo possui os parâmetros definidos corretamente na sua assinatura?
+[x] As operações matemáticas utilizam os parâmetros internos da função, e não as variáveis globais de fora?
+[x] O comando Retorne foi utilizado adequadamente?
 [x] Os nomes das funções e das variáveis deixam claro qual é a responsabilidade delas?
 
 ## Feedback assertivo
